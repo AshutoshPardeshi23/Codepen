@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.CodeMirror {
+    height: 250px;
+    color: #ffffff;
+}
+
+.CodeMirror-gutters {
+    background-color: #494848 ;
+}
+.logo{
+    background-color: #756d6d ;
+    margin-left: 29px;
+}
+
+.CodeMirror-scroll{
+    background-color: #756d6d ;
+}
+.CodeMirror-vscrollbar{
+    opacity: 0;
+}
